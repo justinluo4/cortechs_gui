@@ -1,1 +1,2 @@
-#Cortechs GUI
+# Cortechs GUI
+required modules: pandas, matplotlib
